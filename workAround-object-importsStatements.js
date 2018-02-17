@@ -1,6 +1,5 @@
 /* In this exercice, we are importing the functions as one object and variables with their real names.
-The property salary is used as Employee.salary since it is inside of the object Employee
-*/
+The property salary is used as Employee.salary since it is inside of the object Employee */
 
 import {getCadre, calculateTax, getBenefits, calculateBonus, reimbursementEligibility} from './employee';
 

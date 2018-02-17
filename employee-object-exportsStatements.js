@@ -1,6 +1,5 @@
 /* In this exercice, we are exporting the functions as one object and as they are declared.
-The property salary is used as Employee.salary since it is inside of the object Employee
-*/
+The property salary is used as Employee.salary since it is inside of the object Employee */
 
 let Employee = {
   salary: 10000
